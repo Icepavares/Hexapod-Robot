@@ -27,7 +27,7 @@ It combines:
 
 ## 🤖 Robot Design
 
-![Robot](images/robot.png)
+![hexapod](images/hexapod.jpg)
 
 ### Movement:
 - Tripod gait (high stability)
@@ -56,7 +56,7 @@ It combines:
 ## 📸 Demo
 
 ### Human Detection
-![Detection](images/human_detection.png)
+![Detection](images/modelResult.png)
 
 ## 🚀 How It Works
 
@@ -67,6 +67,8 @@ It combines:
 5. Robot follows target
 
 ## 📈 Performance
+
+!
 
 - Stable walking on rough terrain
 - Real-time detection
@@ -79,6 +81,8 @@ It combines:
 - Partial detection depends on visibility
 
 ## 🔮 Future Work
+
+![testing video](videos/testing.MOV)
 
 - Full-body detection
 - SLAM navigation
